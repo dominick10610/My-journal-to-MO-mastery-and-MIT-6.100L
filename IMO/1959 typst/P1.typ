@@ -2,6 +2,11 @@
 #set text(size: 11pt)
 #set par(justify: true)
 
+#let my-date = datetime(year: 2026,month: 10,day: 10)
+
+#my-date.display()
+
+
 #let problem(num: none, body) = block(
   width: 100%,
   inset: 14pt,
