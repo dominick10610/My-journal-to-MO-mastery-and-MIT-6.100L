@@ -4,8 +4,9 @@ my log and progress for MO solving and proofs as well as 6.100L assignments from
 - Engel's *Problem-Solving Strategies*: invariance principle chapter
 
 ## Progress log
-- 2026-10-10: Started invariance chapter
+- 2026-10-10: starting IMO 1959 P1
 
 ## Resources
 - Engel, *Problem-Solving Strategies*
 - MIT OCW 6.100L
+- AoPS
