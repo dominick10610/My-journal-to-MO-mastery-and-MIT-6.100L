@@ -36,4 +36,5 @@ And the only factor of then number 1 or a gcd(a,b) with a or b = 1 is 1.\
 We can prove that $(21n+4)/(14n+3)$ is irreducible for every natural number n.
 
 = what I got from this problem
-the identity $gcd(a,b) = gcd(a-b,b)$ and $gcd(a,b)=gcd(a,b-k a)$
+- The identity $gcd(a,b) = gcd(a-b,b)$ and $gcd(a,b)=gcd(a,b-k a)$
+- For integers $a$ and $b$ with $b != 0$, *$a/b" is irreducible" <==> gcd(|a|, |b|) = 1$*.
