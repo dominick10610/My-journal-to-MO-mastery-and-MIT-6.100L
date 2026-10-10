@@ -10,3 +10,4 @@ my log and progress for MO solving and proofs as well as 6.100L assignments from
 - Engel, *Problem-Solving Strategies*
 - MIT OCW 6.100L
 - AoPS
+- [imo-official.org](https://www.imo-official.org/problems)
