@@ -32,7 +32,7 @@ From the euclidean algorithm identity *$gcd(a,b)=gcd(a,b-k a)$* we get:
 $ gcd(7n+1,14n+3)=gcd(7n+1,1) $
 #align(center)[because]
 $ 14n+3-2(7n+1)=1 $
-And the only factor of then number 1 or a gcd(a,b) with a or b = 1 is 1.\
+And the only factor of the number 1 or a gcd(a,b) with a or b = 1 is 1.\
 We can prove that $(21n+4)/(14n+3)$ is irreducible for every natural number n.
 
 = what I got from this problem
