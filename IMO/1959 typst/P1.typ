@@ -3,9 +3,11 @@
 #set par(justify: true)
 
 #let my-date = datetime(year: 2026,month: 10,day: 10)
-
 #my-date.display()
-
+#set document(author: "Dominick Asher Luckman")
+#align(left)[
+  Dominick Asher Luckman
+]
 
 #let problem(num: none, body) = block(
   width: 100%,
